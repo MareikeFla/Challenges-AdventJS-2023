@@ -1,3 +1,5 @@
+// https://adventjs.dev/challenges/2023/1
+
 function findFirstRepeated(gifts) {
     let result = -1;
     let currentLastIndex = gifts.length;
