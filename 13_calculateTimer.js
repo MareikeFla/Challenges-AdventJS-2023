@@ -1,5 +1,5 @@
 function calculateTime(deliveries) {
-    return '00:00:00'
+
   }
 
 
@@ -16,4 +16,5 @@ function calculateTime(deliveries) {
 //   '00:00:30'
 // ]) // '-05:29:00'
 
-console.log()
+
+console.log(calculateTime(['00:10:00', '01:00:00', '03:30:00']))
